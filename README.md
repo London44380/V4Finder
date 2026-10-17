@@ -4,6 +4,9 @@ Dérive ou découvre la ou les adresses IPv4 publiques associées à une adresse
 
 **Principe** : cet outil ne devine jamais. Chaque résultat porte une méthode, un niveau de confiance et la preuve dont il a été dérivé. Pour une IPv6 résidentielle/mobile ordinaire sans PTR ni mécanisme de transition encodé, il n'y a simplement pas d'IPv4 à en dériver — l'outil le dit explicitement plutôt que d'en inventer une.
 
+![Demo: Cloudflare public DNS resolver](docs/demo.gif)
+
+
 ## Niveaux de confiance
 | Niveau | Signification |
 |---|---|
